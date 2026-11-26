@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.pyc
+study.db
+*.db
+_capture*
+_ocr*
+*.log
+.vscode/
